@@ -1,0 +1,17 @@
+node_modules/
+
+*.ini
+
+node_modules
+
+package-lock.json
+
+.idea/
+
+api/.env
+
+combined.log
+
+Winstonlogs/Logs.txt
+
+Winstonlogs/
